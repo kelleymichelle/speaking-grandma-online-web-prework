@@ -15,7 +15,7 @@
     if phrase == "I LOVE YOU GRANDMA!"
       puts "I LOVE YOU TOO PUMPKIN!"
       "I LOVE YOU TOO PUMPKIN!"
-    elsif phrase.upcase
+    elsif phrase.upcase == true
       puts "NO, NOT SINCE 1938!"
       "NO, NOT SINCE 1938!"
     else phrase
