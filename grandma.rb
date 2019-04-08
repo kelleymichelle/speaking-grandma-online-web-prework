@@ -18,7 +18,7 @@
     elsif phrase.upcase
       puts "NO, NOT SINCE 1938!"
       "NO, NOT SINCE 1938!"
-    else phrase == true
+    else phrase
       puts "HUH?! SPEAK UP, SONNY!"
       "HUH?! SPEAK UP, SONNY!"
     end
